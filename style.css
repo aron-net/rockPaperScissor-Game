@@ -61,6 +61,11 @@
     font-weight: bold;
 }
 
+.movesLeft{
+    font-size: 1rem;
+    padding: 2px;
+}
+
 .reload {
     display: none;
     margin-top: 2rem;
